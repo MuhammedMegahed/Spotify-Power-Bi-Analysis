@@ -19,7 +19,7 @@ The goal of this project is to create a visually rich and interactive report usi
 
 - `Spottify analysis.pbix` – Power BI file with dashboards, models, and insights
 - `spotify_history.xlsx`  -project data
-- - `Spotify_Logo_Final.png`  -spotify logo
+- `Spotify_Logo_Final.png`  -spotify logo
 - `README.md` – Project overview and instructions
 
 ---
@@ -68,16 +68,6 @@ The goal of this project is to create a visually rich and interactive report usi
 
 ---
 
-## 📈 Example Insights (from the dashboard)
-
-- **The most streamed artist in 2023 was Taylor Swift**, with a sharp spike in Q4 due to her album release.
-- **Danceability and energy have a strong positive correlation with popularity**, especially in the Pop genre.
-- **Latin America shows the fastest growth rate in Hip-Hop consumption** between 2021–2023.
-
-*(These are example insights — replace with your actual findings)*
-
----
-
 ## 📚 Future Enhancements
 
 - Integrate real-time Spotify API updates via Python
@@ -94,8 +84,8 @@ This project was built by Muhammed Megahed Ali as part of a personal data portfo
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-mugahed-ali-616669240)
+- 📧 muhammedmegahedofficial@gmail.com
 
 ---
 
