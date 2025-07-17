@@ -84,7 +84,7 @@ This project was built by Muhammed Megahed Ali as part of a personal data portfo
 
 ## 🔗 Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-mugahed-ali-616669240)
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-mugahed-ali-616669240/)
 - 📧 muhammedmegahedofficial@gmail.com
 
 ---
